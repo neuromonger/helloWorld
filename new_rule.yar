@@ -9,5 +9,5 @@ rule AIM-thisonesforyou
 asdfasdf
 
     condition:
-        
+        fff
 }
