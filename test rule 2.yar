@@ -1,0 +1,13 @@
+rule AIM-
+{
+
+    meta:
+        author = "Jim Mack"
+        info = "Corporate Rule"
+        
+    strings:
+
+
+    condition:
+        
+}
